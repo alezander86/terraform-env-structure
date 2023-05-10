@@ -52,3 +52,4 @@ pre-commit run --all-files
 |------|------|
 | [random_integer.example](https://registry.terraform.io/providers/hashicorp/random/latest/docs/resources/integer) | resource |
 <!-- END_TF_DOCS -->
+1
